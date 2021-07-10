@@ -1,0 +1,55 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="309" />
+    <option name="newTranslationDialogY" value="548" />
+    <histories>
+      <item value="summary" />
+      <item value="get Article News Recommendations" />
+      <item value="list Total Number" />
+      <item value="list Number" />
+      <item value="完成" />
+      <item value="list By Type" />
+      <item value="handle" />
+      <item value="hot Wrod" />
+      <item value="描述" />
+      <item value="get Recommend New Music By Limit" />
+      <item value="instance" />
+      <item value="utils" />
+      <item value="Rander" />
+      <item value="get Personalized" />
+      <item value="参数类型 {price: string, id: number, time: Date, brand: string} 不可分配给参数类型 {price: number, id: number, time: Date, brand: string} | {price: number, id: number, time: Date, brand: string} | {price: number, id: number, time: Date, brand: string}" />
+      <item value="年龄" />
+      <item value="next Tick" />
+      <item value="组件进阶" />
+      <item value="select All" />
+      <item value="ESLint: 'v-model' directives aren't supported on &lt;label&gt; elements.(vuevalid-v-model" />
+      <item value="increment increment" />
+      <item value="bus" />
+      <item value="ESLint: 'v-bind' directives don't support the modifier 'goods_count" />
+      <item value="protocol" />
+      <item value="panel-default" />
+      <item value="增长" />
+      <item value="出版日期" />
+      <item value="look Water" />
+      <item value="resonse" />
+      <item value="senconds" />
+      <item value="毫秒" />
+      <item value="spoken Str" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="CATALAN" value="1" />
+        <entry key="ESPERANTO" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1625045222174" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
