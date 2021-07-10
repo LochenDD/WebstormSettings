@@ -2,6 +2,9 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
