@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Article" />
       <item value="The authenticity of host 'gitee.com' can't be established. RSA key fingerprint is e3:ee:82:78:fb:c0:ca:24:65:69:ba:bc:47:24:6f:d4. Are you sure you want to continue connecting?" />
       <item value="A space is required before '}'.(object-curly-spacing)" />
       <item value="summary" />
@@ -42,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
