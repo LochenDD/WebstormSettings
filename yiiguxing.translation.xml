@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="309" />
     <option name="newTranslationDialogY" value="548" />
     <histories>
+      <item value="A space is required before '}'.(object-curly-spacing)" />
       <item value="summary" />
       <item value="get Article News Recommendations" />
       <item value="list Total Number" />
@@ -39,7 +40,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="19" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
