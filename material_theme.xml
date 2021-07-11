@@ -1,10 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="pristineConfig" value="false" />
-    <option name="upperCaseButtons" value="false" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="f9826c" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="4d2c40d1:17a903493d6:-8000" />
     <option name="version" value="5.5.0" />
   </component>
