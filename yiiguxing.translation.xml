@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="init Channels Edit Remove" />
       <item value="去频道" />
       <item value="context" />
       <item value="'pre_timestamp' is not in camel case.(camelcase)" />
