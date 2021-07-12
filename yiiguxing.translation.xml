@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="suggestion" />
       <item value="init Channels Edit Remove" />
       <item value="去频道" />
       <item value="context" />
