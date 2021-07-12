@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="article" />
       <item value="constant" />
       <item value="contant" />
       <item value="qustion" />
@@ -47,7 +48,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
