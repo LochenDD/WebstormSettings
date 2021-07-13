@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="user Profile" />
       <item value="Expected an assignment or function call and instead saw an expression.(no-unused-expressions)" />
       <item value="suggestion" />
       <item value="init Channels Edit Remove" />
@@ -55,7 +56,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
