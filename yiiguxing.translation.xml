@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="record" />
       <item value="pass Through" />
       <item value="穿越" />
       <item value="Unexpected tab character.(no-tabs)" />
@@ -53,12 +54,11 @@
       <item value="增长" />
       <item value="出版日期" />
       <item value="look Water" />
-      <item value="resonse" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
