@@ -4,15 +4,15 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
-      <item value="close Button" />
+      <item value="newest On Top" />
+      <item value="pause On Focus Loss" />
+      <item value="close On Click" />
       <item value="hide Progress Bar" />
       <item value="show Close Button On Hover" />
       <item value="draggable" />
       <item value="pause On Hover" />
-      <item value="pause On Focus Loss" />
-      <item value="close On Click" />
+      <item value="close Button" />
       <item value="position" />
-      <item value="newest On Top" />
       <item value="max Toasts" />
       <item value="transition" />
       <item value="valid" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
