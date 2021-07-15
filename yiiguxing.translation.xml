@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="summary" />
+      <item value="get Profile" />
       <item value="newest On Top" />
       <item value="pause On Focus Loss" />
       <item value="close On Click" />
@@ -39,7 +41,6 @@
       <item value="Article" />
       <item value="The authenticity of host 'gitee.com' can't be established. RSA key fingerprint is e3:ee:82:78:fb:c0:ca:24:65:69:ba:bc:47:24:6f:d4. Are you sure you want to continue connecting?" />
       <item value="A space is required before '}'.(object-curly-spacing)" />
-      <item value="summary" />
       <item value="get Article News Recommendations" />
       <item value="list Total Number" />
       <item value="list Number" />
@@ -53,12 +54,11 @@
       <item value="utils" />
       <item value="Rander" />
       <item value="get Personalized" />
-      <item value="参数类型 {price: string, id: number, time: Date, brand: string} 不可分配给参数类型 {price: number, id: number, time: Date, brand: string} | {price: number, id: number, time: Date, brand: string} | {price: number, id: number, time: Date, brand: string}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
       </map>
