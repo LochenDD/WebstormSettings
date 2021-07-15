@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="inserted" />
       <item value="avatar" />
       <item value="summary" />
       <item value="get Profile" />
@@ -53,12 +54,11 @@
       <item value="get Recommend New Music By Limit" />
       <item value="instance" />
       <item value="utils" />
-      <item value="Rander" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="VIETNAMESE" value="1" />
