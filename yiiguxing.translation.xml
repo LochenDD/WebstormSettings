@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Expected to return a value in &quot;treeList&quot; computed property" />
       <item value=": 'treeList:' is defined but never used.(no-unused-labels)" />
       <item value="The &quot;created&quot; property should be above the &quot;methods&quot; property on line 76.(vueorder-in-components)" />
       <item value="sidebar Logo" />
@@ -53,11 +54,10 @@
       <item value="get Article News Recommendations" />
       <item value="list Total Number" />
       <item value="list Number" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="70" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
