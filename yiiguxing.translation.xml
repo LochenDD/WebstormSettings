@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Type of the default value for 'nodeData' prop must be a function.(vuerequire-valid-default-prop)" />
+      <item value="nodeData' requires default value to be set.(vuerequire-default-prop)" />
       <item value="Expected to return a value in &quot;treeList&quot; computed property" />
       <item value=": 'treeList:' is defined but never used.(no-unused-labels)" />
       <item value="The &quot;created&quot; property should be above the &quot;methods&quot; property on line 76.(vueorder-in-components)" />
@@ -52,12 +54,10 @@
       <item value="The authenticity of host 'gitee.com' can't be established. RSA key fingerprint is e3:ee:82:78:fb:c0:ca:24:65:69:ba:bc:47:24:6f:d4. Are you sure you want to continue connecting?" />
       <item value="A space is required before '}'.(object-curly-spacing)" />
       <item value="get Article News Recommendations" />
-      <item value="list Total Number" />
-      <item value="list Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
+        <entry key="CHINESE" value="74" />
         <entry key="ENGLISH" value="70" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
