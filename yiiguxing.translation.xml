@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="updated" />
+      <item value="The &quot;Dialog&quot; component has been registered but not used.(vueno-unused-components)" />
+      <item value="The &quot;dialog&quot; component has been registered but not used.(vueno-unused-componen" />
       <item value="without Animation" />
       <item value="'name' is assigned a value but never used.(no-unused-vars)" />
       <item value="introduce" />
@@ -51,14 +54,11 @@
       <item value="Identifier 'channel_id' is not in camel case.(camelcase)" />
       <item value="article" />
       <item value="constant" />
-      <item value="contant" />
-      <item value="qustion" />
-      <item value="overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="75" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="VIETNAMESE" value="1" />
