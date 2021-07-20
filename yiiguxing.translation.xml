@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="avatar" />
       <item value="components" />
       <item value="Salarys" />
       <item value="Empty block statement.(" />
@@ -41,7 +42,6 @@
       <item value="max Toasts" />
       <item value="transition" />
       <item value="inserted" />
-      <item value="avatar" />
       <item value="summary" />
       <item value="get Profile" />
       <item value="position" />
@@ -62,7 +62,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
