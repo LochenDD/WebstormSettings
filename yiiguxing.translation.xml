@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="departmentName: [" />
       <item value="The &quot;data&quot; property should be above the &quot;computed&quot; property on line 26.(vueorder-in-components)" />
       <item value="format Employment" />
       <item value="work Number" />
@@ -53,12 +54,11 @@
       <item value="ESLint: Strings must use singlequote.(quotes)" />
       <item value="record" />
       <item value="pass Through" />
-      <item value="穿越" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
