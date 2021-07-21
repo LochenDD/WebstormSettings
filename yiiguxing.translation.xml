@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="session" />
       <item value="time Of Entry" />
       <item value="form Of Employment" />
       <item value="department Name" />
@@ -53,12 +54,11 @@
       <item value="get Profile" />
       <item value="position" />
       <item value="valid" />
-      <item value="ESLint: Strings must use singlequote.(quotes)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
