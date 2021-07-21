@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="format Employment" />
       <item value="work Number" />
       <item value="form Of Employment" />
       <item value="avatar" />
@@ -53,12 +54,11 @@
       <item value="pass Through" />
       <item value="穿越" />
       <item value="Unexpected tab character.(no-tabs)" />
-      <item value="'v-bind' directives require an attribute value.(vuevalid-v-bind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
