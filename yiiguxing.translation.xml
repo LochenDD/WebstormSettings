@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="dragstart" />
       <item value="session" />
       <item value="time Of Entry" />
       <item value="form Of Employment" />
@@ -53,12 +54,12 @@
       <item value="summary" />
       <item value="get Profile" />
       <item value="position" />
-      <item value="valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="92" />
         <entry key="ENGLISH" value="92" />
+        <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
