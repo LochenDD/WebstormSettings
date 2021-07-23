@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Type '{ name: string; age: number; sss: number; }' is not assignable to type 'Person'.   Object literal may only specify known properties, and 'sss' does not exist in type 'Person'." />
+      <item value="Property 'age' is missing in type '{ name: string; }' but required in type 'Person" />
+      <item value="Argument of type 'string[]' is not assignable to parameter of type 'string'." />
       <item value="Salarys" />
       <item value="read As Array Buffer" />
       <item value="reader Data" />
@@ -51,13 +54,10 @@
       <item value="draggable Percent" />
       <item value="pause On Hover" />
       <item value="pause On Focus Loss" />
-      <item value="close On Click" />
-      <item value="newest On Top" />
-      <item value="max Toasts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
+        <entry key="CHINESE" value="101" />
         <entry key="ENGLISH" value="99" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
