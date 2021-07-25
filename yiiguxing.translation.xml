@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="social" />
       <item value="req Basic Information" />
       <item value="Type '{ name: string; age: number; sss: number; }' is not assignable to type 'Person'.   Object literal may only specify known properties, and 'sss' does not exist in type 'Person'." />
       <item value="Property 'age' is missing in type '{ name: string; }' but required in type 'Person" />
@@ -53,12 +54,11 @@
       <item value="hide Progress Bar" />
       <item value="show Close Button On Hover" />
       <item value="draggable Percent" />
-      <item value="pause On Hover" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
