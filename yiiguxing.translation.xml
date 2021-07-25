@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="handle-callback-err" />
+      <item value="Expected error to be handled.(handle-callback-err" />
+      <item value="show Spinner" />
       <item value="social" />
       <item value="req Basic Information" />
       <item value="Type '{ name: string; age: number; sss: number; }' is not assignable to type 'Person'.   Object literal may only specify known properties, and 'sss' does not exist in type 'Person'." />
@@ -51,14 +54,11 @@
       <item value="show Settings" />
       <item value="valid Username" />
       <item value="close Button" />
-      <item value="hide Progress Bar" />
-      <item value="show Close Button On Hover" />
-      <item value="draggable Percent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="102" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
