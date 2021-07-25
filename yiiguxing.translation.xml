@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="direction" />
+      <item value="employee" />
+      <item value="employees" />
       <item value="avatar" />
       <item value="handle-callback-err" />
       <item value="Expected error to be handled.(handle-callback-err" />
@@ -51,13 +54,10 @@
       <item value="The &quot;created&quot; property should be above the &quot;methods&quot; property on line 76.(vueorder-in-components)" />
       <item value="sidebar Logo" />
       <item value="fixed Header" />
-      <item value="show Settings" />
-      <item value="valid Username" />
-      <item value="close Button" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
+        <entry key="CHINESE" value="105" />
         <entry key="ENGLISH" value="102" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626772660325" />
+    <option name="lastTrimTime" value="1627208778504" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
