@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="avatar" />
       <item value="handle-callback-err" />
       <item value="Expected error to be handled.(handle-callback-err" />
       <item value="show Spinner" />
@@ -28,7 +29,6 @@
       <item value="departmentName: [" />
       <item value="The &quot;data&quot; property should be above the &quot;computed&quot; property on line 26.(vueorder-in-components)" />
       <item value="format Employment" />
-      <item value="avatar" />
       <item value="components" />
       <item value="Empty block statement.(" />
       <item value="verify" />
@@ -63,7 +63,7 @@
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
