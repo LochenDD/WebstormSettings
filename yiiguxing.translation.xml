@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="form Of Employment" />
       <item value="employee" />
       <item value="direction" />
       <item value="employees" />
@@ -26,7 +27,6 @@
       <item value="dragstart" />
       <item value="session" />
       <item value="time Of Entry" />
-      <item value="form Of Employment" />
       <item value="department Name" />
       <item value="work Number" />
       <item value="departmentName: [" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
