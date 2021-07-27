@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Transfer" />
       <item value="unnecessary '.call()'" />
       <item value="handle Avatar Success" />
       <item value="employee Menu" />
@@ -53,12 +54,11 @@
       <item value="introduce" />
       <item value="department" />
       <item value="Type of the default value for 'nodeData' prop must be a function.(vuerequire-valid-default-prop)" />
-      <item value="nodeData' requires default value to be set.(vuerequire-default-prop)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
