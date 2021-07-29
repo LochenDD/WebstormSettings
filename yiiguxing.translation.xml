@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="permission" />
       <item value="sub Menu Active Text" />
       <item value="Transfer" />
       <item value="unnecessary '.call()'" />
@@ -53,11 +54,10 @@
       <item value="without Animation" />
       <item value="'name' is assigned a value but never used.(no-unused-vars)" />
       <item value="introduce" />
-      <item value="department" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
+        <entry key="CHINESE" value="109" />
         <entry key="ENGLISH" value="109" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
