@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="discipline" />
       <item value="theme" />
       <item value="content of theme-chalk css" />
       <item value="Key Promoter X This Key Promoter X version contains support for the latest IntelliJ Platform IDE's and minor improvements. If you appreciate my efforts, then please consider sponsoring the project, leaving a rating on the Jetbrains website, or starring the repository on GitHub. Join the supporter team" />
@@ -53,12 +54,11 @@
       <item value="components" />
       <item value="Empty block statement.(" />
       <item value="verify" />
-      <item value="del Role" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
