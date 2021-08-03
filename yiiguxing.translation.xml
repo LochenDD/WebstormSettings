@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="Determine" />
+      <item value="handle" />
       <item value="choice" />
       <item value="subject" />
       <item value="Custom elements in iteration require 'v-bind:key' directives.(vuevalid-v-for)" />
@@ -52,13 +54,11 @@
       <item value="department Name" />
       <item value="work Number" />
       <item value="departmentName: [" />
-      <item value="The &quot;data&quot; property should be above the &quot;computed&quot; property on line 26.(vueorder-in-components)" />
-      <item value="format Employment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
