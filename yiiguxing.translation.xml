@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="bold" />
+      <item value="searchreplace" />
+      <item value="has Change" />
+      <item value="Rich text is a core feature of the management backend, but at the same time it is a place with lots of pits. In the process of selecting rich texts, I also took a lot of detours. The common rich texts on the market have been basically used, and I finally chose Tinymce. See the more detailed rich text comparison and introduction." />
       <item value="rule Form" />
       <item value="bank-filter" />
       <item value="question-bank-filter" />
@@ -50,15 +54,11 @@
       <item value="read As Array Buffer" />
       <item value="reader Data" />
       <item value="fix can't select the same excel" />
-      <item value="webkit Get As Entry" />
-      <item value="ondragenter" />
-      <item value="draggable" />
-      <item value="dragstart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
