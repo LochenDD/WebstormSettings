@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="object resizing" />
       <item value="convert urls" />
       <item value="file edit insert view format table" />
       <item value="bold" />
@@ -53,12 +54,11 @@
       <item value="Property 'age' is missing in type '{ name: string; }' but required in type 'Person" />
       <item value="Argument of type 'string[]' is not assignable to parameter of type 'string'." />
       <item value="Salarys" />
-      <item value="read As Array Buffer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
