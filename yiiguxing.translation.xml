@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="rule Form" />
+      <item value="bank-filter" />
+      <item value="question-bank-filter" />
+      <item value="bank" />
       <item value="on And Off Shelves" />
       <item value="Determine" />
       <item value="handle" />
@@ -50,16 +54,13 @@
       <item value="ondragenter" />
       <item value="draggable" />
       <item value="dragstart" />
-      <item value="session" />
-      <item value="time Of Entry" />
-      <item value="department Name" />
-      <item value="work Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="DANISH" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ESPERANTO" value="1" />
         <entry key="ITALIAN" value="1" />
