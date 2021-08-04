@@ -4,9 +4,11 @@
     <option name="newTranslationDialogX" value="368" />
     <option name="newTranslationDialogY" value="520" />
     <histories>
+      <item value="subject ID" />
+      <item value="question" />
+      <item value="province" />
       <item value="enterprise ID" />
       <item value="catalog ID" />
-      <item value="subject ID" />
       <item value="object resizing" />
       <item value="convert urls" />
       <item value="file edit insert view format table" />
@@ -52,13 +54,11 @@
       <item value="Expected error to be handled.(handle-callback-err" />
       <item value="show Spinner" />
       <item value="social" />
-      <item value="req Basic Information" />
-      <item value="Type '{ name: string; age: number; sss: number; }' is not assignable to type 'Person'.   Object literal may only specify known properties, and 'sss' does not exist in type 'Person'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
